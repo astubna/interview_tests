@@ -1,0 +1,5 @@
+1234:aistubna:Andrej:Ivan:Stubna:Development
+4321:jmmrkvic:Jozef:Milan:Mrkvicka:Sales
+2536:jbezuch:Jan::Bezuch:Commercial
+4589:avelky:Alexander::Velky:Logistics
+2635:idriecny:Ivan::Driecny:Logistics
